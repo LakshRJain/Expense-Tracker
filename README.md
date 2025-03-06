@@ -49,6 +49,9 @@ For help getting started with Flutter development, view the
   ```bash
      flutter run
   ```
+# 📱Screenshots
+<img src = "https://github.com/LakshRJain/Expense-Tracker/blob/main/lib/screenshots/HomePage.png" width = "250">                 <img src = "https://github.com/LakshRJain/Expense-Tracker/blob/main/lib/screenshots/AddExpense.png" width = "250">  
+
 
 ## 📌 Future Enhancements
 
